@@ -1,0 +1,105 @@
+body{
+    background-color: rgb(73, 70, 70);
+}
+
+h1.welcome{
+    color: rgb(19, 187, 19);
+    text-align: center;
+    font-size: 50px;
+}
+
+ul{
+    text-align: center;
+    font-size: 30px;
+}
+
+a.nav{
+    text-decoration: none;
+    background-color: rgb(73, 70, 70);
+    padding: 10px;
+    border-radius: 100px;
+    border: rgb(29, 28, 28);
+    border-style: solid;
+}
+
+a.nav:hover{
+    text-decoration: none;
+    background-color: rgb(29, 28, 28);
+    transition-duration: 0.3s;
+    border-color: rgb(73, 70, 70);
+}
+
+li{
+    display: inline-block;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(19, 187, 19);
+}
+
+img.Logocontacts{
+	width: 20px;
+	height: 20px;
+}
+
+img.Logoimages{
+	width: 20px;
+	height: 20px;
+}
+
+img.Logovideos{
+	width: 20px;
+	height: 20px;
+}
+
+h1.contacts{
+    color: rgb(201, 46, 46);
+}
+
+li.contacts{
+    text-align: center;
+    font-size: 25px;
+    color: rgb(19, 187, 19);
+    background-color: rgb(77, 77, 77);
+    border: rgb(41, 41, 41); 
+    border-radius: 15px;
+    border-style: solid;
+    display: block;
+}
+
+a.contacts{
+    text-decoration: none;
+}
+
+a.back{
+    text-decoration: none;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(19, 187, 19);
+    background-color: rgb(77, 77, 77);
+    border: rgb(41, 41, 41); 
+    border-radius: 100px;
+    border-style: solid;
+    padding: 5px;
+
+}
+
+a.back:hover{
+    background-color: rgb(41, 41, 41);
+    border: rgb(77, 77, 77);
+    transition: 0.3s;
+}
+
+img.LogoInsta{
+    width: 20px;
+    height: 20px;
+}
+
+img.LogoTiktoks{
+    width: 25px;
+    height: 25px;
+}
+
+img.back{
+	width: 20px;
+	height: 20px;
+}
